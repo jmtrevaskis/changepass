@@ -1,3 +1,8 @@
+'local administrator password reset tool
+'By James Trevaskis
+'http://blog.metasplo.it
+'Last edited: 04/01/2013
+
 
 'input checks
 If WScript.Arguments.Count = 1 Then
